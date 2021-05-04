@@ -20,6 +20,8 @@ if name==name1:
 else:
     print('name is not palindrome')
 
+print('context managers are allocate and deallocate the resources')
+
 
 
 
